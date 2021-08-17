@@ -1,6 +1,6 @@
 # Node with Git
 
-[Github](https://github.com/SAMDevelopment/nodegit) | [Docker hub](https://hub.docker.com/r/samdevelopment/nodegit)
+[Github](https://github.com/SAMDevelopment/nodewithgit) | [Docker hub](https://hub.docker.com/r/samdevelopment/nodewithgit)
 
 Node image with Git manually compiled to get the latest version.
 
